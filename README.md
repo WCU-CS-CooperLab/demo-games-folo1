@@ -1,4 +1,4 @@
 # GamePublish
 A template repository to publish games
 
-[coin dash](coin-dash/playerscene)
+[coin dash](coin-dash)
