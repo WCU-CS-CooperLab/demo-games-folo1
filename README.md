@@ -1,5 +1,6 @@
 # GamePublish
 A template repository to publish games
 
-[first player scene day 1](coin-dash)
-[player_scene 830](player_scene_830)
+1. [first player scene day 1](coin-dash)
+
+2. [player_scene 830](player_scene_830)
