@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://cyppoqhvtr7p7"
-path="res://.godot/imported/Coin Dash.png-5761b608e8135638555fe7544dbff3b8.ctex"
+uid="uid://b0pyp7cqeayhc"
+path="res://.godot/imported/cactus.png-366c3b67d0b3dfc72dbc4a57fb23b7b9.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Coin Dash.png"
-dest_files=["res://.godot/imported/Coin Dash.png-5761b608e8135638555fe7544dbff3b8.ctex"]
+source_file="res://assets/cactus.png"
+dest_files=["res://.godot/imported/cactus.png-366c3b67d0b3dfc72dbc4a57fb23b7b9.ctex"]
 
 [params]
 

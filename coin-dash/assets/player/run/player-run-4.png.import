@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://cyppoqhvtr7p7"
-path="res://.godot/imported/Coin Dash.png-5761b608e8135638555fe7544dbff3b8.ctex"
+uid="uid://b41pebd0nsp4k"
+path="res://.godot/imported/player-run-4.png-440867f3317b7fa7d39044ece831fe3a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Coin Dash.png"
-dest_files=["res://.godot/imported/Coin Dash.png-5761b608e8135638555fe7544dbff3b8.ctex"]
+source_file="res://assets/player/run/player-run-4.png"
+dest_files=["res://.godot/imported/player-run-4.png-440867f3317b7fa7d39044ece831fe3a.ctex"]
 
 [params]
 

@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://cyppoqhvtr7p7"
-path="res://.godot/imported/Coin Dash.png-5761b608e8135638555fe7544dbff3b8.ctex"
+uid="uid://ji3hldl0kt8d"
+path="res://.godot/imported/grass.png-a207bda4a53e32c7645a41ec6d1c234e.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Coin Dash.png"
-dest_files=["res://.godot/imported/Coin Dash.png-5761b608e8135638555fe7544dbff3b8.ctex"]
+source_file="res://assets/grass.png"
+dest_files=["res://.godot/imported/grass.png-a207bda4a53e32c7645a41ec6d1c234e.ctex"]
 
 [params]
 
