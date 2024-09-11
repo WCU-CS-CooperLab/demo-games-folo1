@@ -15,3 +15,4 @@ A template repository to publish games
 ## Space Rocks
 
 1. [player scene day 1](SR_player_scene_0909)
+2. [scene day 2](SR_player_scene_0911)
