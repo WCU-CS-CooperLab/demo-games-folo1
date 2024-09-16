@@ -3,7 +3,7 @@ A template repository to publish games
 
 ## Coin Dash
 
-1. [Coin Dash Completed from the Book](coin_dash_complete)
+1. [Phase I](coin_dash_complete)
 
 ## Coin Dash Progress
 
