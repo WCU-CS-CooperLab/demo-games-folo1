@@ -13,6 +13,7 @@ A template repository to publish games
 4. [final with HUD](fin_main_0906)
 5. [Game 95% complete](complete_without_obstacles_0908)
 
+1. [My coin dash](curr_phase_ii)
 ---
 
 ## Space Rocks
