@@ -12,8 +12,9 @@ A template repository to publish games
 3. [finished main scene](main_curr_scene_0906)
 4. [final with HUD](fin_main_0906)
 5. [Game 95% complete](complete_without_obstacles_0908)
-
-1. [My coin dash](curr_phase_ii)
+   
+---
+1. [My coin dash, 9/17](curr_phase_ii_2)
 ---
 
 ## Space Rocks
