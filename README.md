@@ -4,6 +4,7 @@ A template repository to publish games
 ## Coin Dash
 
 1. [Phase I](coin_dash_complete)
+2. [Phase 2-- BUGGED but near completion](cd_phase_ii_0920)
 
 ## Coin Dash Progress
 
