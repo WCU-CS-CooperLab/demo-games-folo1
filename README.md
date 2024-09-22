@@ -1,10 +1,10 @@
 # GamePublish
-A template repository to publish games
+A repository to publish games
 
 ## Coin Dash
 
-1. [Phase I](coin_dash_complete)
-2. [Phase 2-- BUGGED but near completion](cd_phase_ii_0920)
+1. [Phase 1](coin_dash_phase1_fin)
+3. [Phase 2](cd_phase2_0922)
 
 ## Coin Dash Progress
 
@@ -13,9 +13,9 @@ A template repository to publish games
 3. [finished main scene](main_curr_scene_0906)
 4. [final with HUD](fin_main_0906)
 5. [Game 95% complete](complete_without_obstacles_0908)
-   
----
-1. [My coin dash, 9/17](curr_phase_ii_2)
+6. [100%](coin_dash_phase1_fin)
+7. [My coin dash, phase 2, bugged but playable](cd_phase_ii_0920)
+
 ---
 
 ## Space Rocks
