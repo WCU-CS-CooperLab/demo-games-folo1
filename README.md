@@ -4,7 +4,7 @@ A repository to publish games
 ## Coin Dash
 
 1. [Phase 1](coin_dash_phase1_fin)
-3. [Phase 2](cd_phaseii_0922)
+3. [Phase 2](cd_final_phaseii)
 
 ## Coin Dash Progress
 
