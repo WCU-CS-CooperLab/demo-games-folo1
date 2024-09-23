@@ -1,6 +1,8 @@
 # GamePublish
 A repository to publish games
 
+https://wcu-cs-cooperlab.github.io/demo-games-folo1/ 
+
 ## Coin Dash
 
 1. [Phase 1](coin_dash_phase1_fin)
