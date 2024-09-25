@@ -23,9 +23,11 @@ https://wcu-cs-cooperlab.github.io/demo-games-folo1/
 1. [Day 1, Player Scene](SR_player_scene_0909)
 2. [Day 2](SR_player_scene_0911)
 3. [Day 3](SR_main_0913)
+4. [Day 4, 9/16](SR_scene_0916)
 
 ---
 
 ## Mini Golf Progress
 
 1.[Day 1, Hole Scene](MG_0923)
+2.[Day 2](MG_0925)
