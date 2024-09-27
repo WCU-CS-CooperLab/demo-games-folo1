@@ -24,6 +24,7 @@ https://wcu-cs-cooperlab.github.io/demo-games-folo1/
 2. [Day 2](SR_player_scene_0911)
 3. [Day 3](SR_main_0913)
 4. [Day 4, 9/16](SR_scene_0916)
+5. [90%](SR_somesound_0926)
 
 ---
 
