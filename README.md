@@ -5,8 +5,8 @@ https://wcu-cs-cooperlab.github.io/demo-games-folo1/
 
 ## Coin Dash
 
-1. [Phase 1](coin_dash_phase1_fin)
-3. [Phase 2](cd_phaseII_0925)
+1. [Coin Dash (Phase 1)](coin_dash_phase1_fin)
+3. [Cat Dash (Phase 2)](cd_phaseII_0925)
 
 ## Coin Dash Progress
 
@@ -32,3 +32,10 @@ https://wcu-cs-cooperlab.github.io/demo-games-folo1/
 
 1.[Day 1, Hole Scene](MG_0923)
 2.[Day 2](MG_0925)
+3.[Day 3](MG_0927)
+
+---
+
+## Jungle Jump Progress
+
+1. [Day 1](JJ_0930)
