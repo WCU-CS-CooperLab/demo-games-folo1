@@ -40,4 +40,4 @@ https://wcu-cs-cooperlab.github.io/demo-games-folo1/
 
 1. [Day 1](JJ_0930)
 2. [Day 2](JJ_1002)
-3. [Day 3](JJ_1002_woLadders)
+3. [Day 3](JJ_1002_woLaddders)
