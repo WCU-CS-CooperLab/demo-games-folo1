@@ -30,9 +30,9 @@ https://wcu-cs-cooperlab.github.io/demo-games-folo1/
 
 ## Mini Golf Progress
 
-1.[Day 1, Hole Scene](MG_0923)
-2.[Day 2](MG_0925)
-3.[Day 3](MG_0927)
+1.[Day 1, Hole Scene](MG_0923) 
+2.[Day 2](MG_0925) 
+3.[Day 3](MG_0927) 
 
 ---
 
@@ -41,3 +41,4 @@ https://wcu-cs-cooperlab.github.io/demo-games-folo1/
 1. [Day 1](JJ_0930)
 2. [Day 2](JJ_1002)
 3. [Day 3](JJ_1002_woLaddders)
+4. [100%](JJ_1005)
