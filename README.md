@@ -42,5 +42,5 @@ https://wcu-cs-cooperlab.github.io/demo-games-folo1/
 2. [Day 2](JJ_1002)
 3. [Day 3](JJ_1002_woLaddders)
 4. [100%](JJ_1005)
-
-5.[Phase 2 Update](jj_phase2_level_1005_)
+5. [Phase 2 Update](jj_phase2_level_1005_)
+6. [Phase 2 Update 10/07](jj_phase2_1007)
