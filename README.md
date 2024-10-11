@@ -6,7 +6,12 @@ https://wcu-cs-cooperlab.github.io/demo-games-folo1/
 ## Coin Dash
 
 1. [Coin Dash (Phase 1)](coin_dash_phase1_fin)
-3. [Cat Dash (Phase 2)](cd_phaseII_0925)
+2. [Cat Dash (Phase 2)](cd_phaseII_0925)
+
+## Jungle Jump
+
+1. [Jungle Jump (Phase 1)](JJ_1009)
+2. [Through the Woods (Phase 2) *Still in Progress](jj_phase2_1011_correction)
 
 ## Coin Dash Progress
 
