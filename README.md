@@ -3,15 +3,17 @@ A repository to publish games
 
 https://wcu-cs-cooperlab.github.io/demo-games-folo1/ 
 
-## Coin Dash
+## Project 1
 
 1. [Coin Dash (Phase 1)](coin_dash_phase1_fin)
 2. [Cat Dash (Phase 2)](cd_phaseII_0925)
 
-## Jungle Jump
+## Project 2
 
 1. [Jungle Jump (Phase 1)](JJ_1009)
-2. [Through the Woods (Phase 2) *Still in Progress](jj_phase2_1015)
+2. [Through the Woods (Phase 2) *Still in Progress](jj_phase2_1020)
+
+---
 
 ## Coin Dash Progress
 
@@ -49,3 +51,9 @@ https://wcu-cs-cooperlab.github.io/demo-games-folo1/
 4. [100%](JJ_1005)
 5. [Phase 2 Update](jj_phase2_level_1005_)
 6. [Phase 2 Update 10/07](jj_phase2_1007)
+
+---
+
+## Infinite Flyer
+
+1. [Day 1](ring_stormer_1016)
