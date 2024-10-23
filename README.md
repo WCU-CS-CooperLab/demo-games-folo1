@@ -11,7 +11,7 @@ https://wcu-cs-cooperlab.github.io/demo-games-folo1/
 ## Project 2
 
 1. [Jungle Jump (Phase 1)](JJ_1009)
-2. [Through the Woods (Phase 2)](jj_phase2_1021)
+2. [Through the Woods (Phase 2)](jj_phase2_1022)
 
 ---
 
@@ -37,8 +37,8 @@ https://wcu-cs-cooperlab.github.io/demo-games-folo1/
 
 ## Mini Golf Progress
 
-1.[Day 1, Hole Scene](MG_0923) 
-2.[Day 2](MG_0925) 
+1.[Day 1, Hole Scene](MG_0923)
+2.[Day 2](MG_0925)
 3.[Day 3](MG_0927) 
 
 ---
