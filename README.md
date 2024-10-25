@@ -11,7 +11,7 @@ https://wcu-cs-cooperlab.github.io/demo-games-folo1/
 ## Project 2
 
 1. [Jungle Jump (Phase 1)](JJ_1009)
-2. [Through the Woods (Phase 2)](jj_phase2_1022)
+2. [Through the Woods (Phase 2)](jj_phase2_1023)
 
 ---
 
