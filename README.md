@@ -12,7 +12,10 @@ https://wcu-cs-cooperlab.github.io/demo-games-folo1/
 
 1. [Jungle Jump (Phase 1)](JJ_1009)
 2. [Through the Woods (Phase 2)](jj_phase2_1023)
-3. [Through the Woods Updated](jj_phase2_1023)
+
+## Project 3
+
+1. [Infinite Flyer](ring_stormer_1029)
 
 ---
 
@@ -55,6 +58,8 @@ https://wcu-cs-cooperlab.github.io/demo-games-folo1/
 
 ---
 
-## Infinite Flyer
+## Infinite Flyer Progress
 
 1. [Day 1](ring_stormer_1016)
+2. [Day 2](ring_stormer_1025)
+3. [100%](ring_stormer_1029)
