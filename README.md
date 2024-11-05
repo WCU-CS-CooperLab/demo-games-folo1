@@ -16,7 +16,7 @@ https://wcu-cs-cooperlab.github.io/demo-games-folo1/
 ## Project 3
 
 1. [Infinite Flyer (Phase 1)](ring_stormer_1105)
-2. [Infinite Ruller *Incomplete](ir_phase2_1105)
+2. [Infinite Runner *Incomplete](ir_phase2_1105)
 
 ---
 
