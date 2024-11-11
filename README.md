@@ -22,7 +22,10 @@ https://wcu-cs-cooperlab.github.io/demo-games-folo1/
 
 ## Team Project 1
 
-1. [Adventures of Blobby](adventures_of_blobby)
+1. [Adventures of Blobby](adventures_of_blobby_2)
+
+
+---
 
 ## Coin Dash Progress
 
