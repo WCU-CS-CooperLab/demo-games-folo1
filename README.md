@@ -20,6 +20,10 @@ https://wcu-cs-cooperlab.github.io/demo-games-folo1/
 
 ---
 
+1. [Project 4 Lobby](word_project4_lobby)
+
+---
+
 ## Team Project 1
 
 1. [Adventures of Blobby](blobby_4)
