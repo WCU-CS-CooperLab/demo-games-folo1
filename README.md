@@ -20,7 +20,10 @@ https://wcu-cs-cooperlab.github.io/demo-games-folo1/
 
 ---
 
-1. [Project 4 Lobby](word_project4_lobby)
+## Project 4
+
+1. [Word Search Mac Download](project_4/mac/Mac.dmg)
+2. [Word Search Windows Download](project_4/windows/Word_Windows2.exe)
 
 ---
 
