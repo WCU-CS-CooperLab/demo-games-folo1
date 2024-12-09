@@ -35,8 +35,8 @@ https://wcu-cs-cooperlab.github.io/demo-games-folo1/
 ---
 
 ## Team Project 2
-1. [macOS](https://github.com/WCU-CS-CooperLab/csc476-team-project-2-pentagame/blob/bfe413e1c0c44e6af7eb12ab544df83524262fb6/rat_race_macOS.dmg)
-2. [Windows Executable](https://github.com/WCU-CS-CooperLab/csc476-team-project-2-pentagame/blob/bfe413e1c0c44e6af7eb12ab544df83524262fb6/rat_race_Windows.exe)
+1. [macOS](rat_race_macOS.dmg)
+2. [Windows Executable](rat_race_Windows.exe)
 
 ---
 
