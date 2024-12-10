@@ -36,7 +36,7 @@ https://wcu-cs-cooperlab.github.io/demo-games-folo1/
 
 ## Team Project 2
 1. [macOS](rat_race_macOS.dmg)
-2. [Windows Executable](rat_race_Windows.exe)
+2. [Rat Race Windows Download](ratRace_Windows.zip)
 
 ---
 
